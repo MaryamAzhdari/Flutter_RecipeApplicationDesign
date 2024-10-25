@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/models/RecipeModel.dart';
-import 'package:flutter_recipee_app/presentaion/widgets/list/list_item_shopping.dart';
+import 'package:flutter_recipe_app/presentaion/models/RecipeModel.dart';
+import 'package:flutter_recipe_app/presentaion/widgets/list/list_item_shopping.dart';
 
 class Shoppinglist extends StatelessWidget {
   const Shoppinglist({super.key});

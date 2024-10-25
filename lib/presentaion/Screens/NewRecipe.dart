@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/RecipeDetails.dart';
-import 'package:flutter_recipee_app/presentaion/models/RecipeModel.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/RecipeDetails.dart';
+import 'package:flutter_recipe_app/presentaion/models/RecipeModel.dart';
 
 class NewRecipe extends StatelessWidget {
   @override

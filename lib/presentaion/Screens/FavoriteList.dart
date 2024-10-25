@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/widgets/list/list_item_favorite.dart';
+import 'package:flutter_recipe_app/presentaion/widgets/list/list_item_favorite.dart';
 
 class FavoriteList extends StatelessWidget {
   const FavoriteList({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/widgets/custom_sizedbox.dart';
+import 'package:flutter_recipe_app/presentaion/widgets/custom_sizedbox.dart';
 
 class FavoriteListItem extends StatelessWidget {
   final String pictureUrl;

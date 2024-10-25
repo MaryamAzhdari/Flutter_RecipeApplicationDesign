@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/HomePage.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/HomePage.dart';
 
 void main() {
   runApp(MyApp());

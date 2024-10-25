@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/Country.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/Time.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/Country.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/Time.dart';
 import 'package:tab_indicator_styler/tab_indicator_styler.dart';
 
 class Category extends StatefulWidget {

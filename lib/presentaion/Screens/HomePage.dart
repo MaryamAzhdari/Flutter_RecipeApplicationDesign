@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/NewRecipe.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/Category.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/FavoriteList.dart';
-import 'package:flutter_recipee_app/presentaion/Screens/ShoppingList.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/Category.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/FavoriteList.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/NewRecipe.dart';
+import 'package:flutter_recipe_app/presentaion/Screens/ShoppingList.dart';
 import 'package:simple_icons/simple_icons.dart';
 import 'package:tab_indicator_styler/tab_indicator_styler.dart';
 

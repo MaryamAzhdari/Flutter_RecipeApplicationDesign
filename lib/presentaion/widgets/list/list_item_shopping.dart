@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_recipee_app/presentaion/models/RecipeModel.dart';
+import 'package:flutter_recipe_app/presentaion/models/RecipeModel.dart';
 
 class ShoppingListItem extends StatelessWidget {
   final RecipeModel recipeModel;
